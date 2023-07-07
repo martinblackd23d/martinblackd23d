@@ -1,5 +1,3 @@
-martinblackd23d@gmail.com
-
 https://www.linkedin.com/in/marton-bone/
 
 Student at Saint Paul College-A Community and Technical College
