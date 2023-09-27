@@ -11,7 +11,9 @@ I have done penetration testing labs
 I've tried finding bug bounties
 Uncovered and reported a vulnerability in a real world  system
 Currently working as a Data Analytics Intern at Saint Paul College
+Previously worked as Professor Assistant at Saint Paul College
 Set up a java webserver for other students to submit their homework to
+Managed the virtual machines and internal network for the Computer Science Department
 
 I have been coding and building projects on my own for a few years now, trying to explore many areas of computer science, and building a solid foundation in each, so I can adapt well to changing circumstances.
 I am also a really fast learner and have a very solid background in math and physics with many good results at science competitions.
