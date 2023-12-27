@@ -1,6 +1,6 @@
 https://www.linkedin.com/in/marton-bone/
 
-My sole mission is to be on the cutting edge of technological innovation to improve as many lives as I possibly can
+My mission is to be on the cutting edge of technological innovation to improve as many lives as I possibly can
 
 Leadership:
 I always aspired to be a leader, but I never felt quite ready to take the initiative. Then suddenly I was put in charge of a 10-person team and I realized I was never going to feel ready. Fortunately, I have a great team around me who enable me to try and become the best leader I can be.
